@@ -5,8 +5,6 @@ try {
   let arrR = {};
   let arrT = [];
 
-  // let contador = 0;
-
   for (let p of K1) {
     arrR[p] ? arrR[p]++ : (arrR[p] = 1);
     arrT.push(arrR[p]);
