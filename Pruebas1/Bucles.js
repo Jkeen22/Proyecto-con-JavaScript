@@ -15,12 +15,12 @@ while (contador < 100) {
 }
 document.writeln("<p>");
 //
-do {
-  respuesta = prompt("Haz practicado JavaScript? ").toLocaleLowerCase();
-} while (respuesta !== "si");
+// do {
+//   respuesta = prompt("Haz practicado JavaScript? ").toLocaleLowerCase();
+// } while (respuesta !== "si");
 
-document.writeln("Esta bien");
-document.writeln("<p>");
+// document.writeln("Esta bien");
+// document.writeln("<p>");
 //
 let array;
 
