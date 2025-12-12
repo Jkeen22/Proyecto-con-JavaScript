@@ -27,3 +27,29 @@ document.writeln(RangoInput.value + "<p>")
 const ArchivoFoto = document.querySelector(".fotos")
 
 ArchivoFoto.accept = "image/png"
+
+//
+
+const mintext = document.querySelector(".input1")
+
+mintext.setAttribute("minlength", "10")
+
+mintext.required = " "
+
+//
+
+//esto va con css
+
+const tamaño = document.querySelector(".patata")
+
+tamaño.classList.add("grande")
+
+tamaño.style.color = "blue"
+
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+
+
+const Parrafo = document.createElement("H1")
+Parrafo.innerHTML = "Hola, como vas?"
+document.body.appendChild(Parrafo)
