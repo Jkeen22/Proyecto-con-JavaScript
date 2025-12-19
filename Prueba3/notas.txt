@@ -1,1 +1,1 @@
-Usar el "use strict"
+Sugerencia, usar el "use strict"
