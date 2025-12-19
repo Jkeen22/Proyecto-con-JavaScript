@@ -10,5 +10,8 @@ boton.addEventListener("click", (event) => {
 // mouseenter  // entra el mouse
 // mouseleave  // sale
 // mousemove   // se mueve
+// dragstart   // cuando arrastrar
+// dragover    // cuando estas encima
+// drop        // cuando sueltas
 
 //
