@@ -1,3 +1,5 @@
-const Fecha = Date()
+const ahora = new Date();
+console.log(ahora.toLocaleTimeString()); // hora bonita
 
-console.log(Fecha);
+const todo = new Date()
+console.log(todo);
