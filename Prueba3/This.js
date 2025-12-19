@@ -9,6 +9,12 @@ Obj.saludar()
 
 //
 
-function Obj(params) {
-    
+function Persona(params) {
+    this.nombre = params;
+
+    setTimeout(() => {
+        console.log(this.nombre);
+    }, /* 2000      Estos son los segundos*/ );
 }
+
+new Persona("Keen")
