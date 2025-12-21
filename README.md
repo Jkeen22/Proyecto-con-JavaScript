@@ -1,2 +1,2 @@
 # Proyecto-con-JavaScript
-Aquí encontraras uno o mas proyectos de JavaScript
+Aquí encontraras mis practicas de JavaScript
